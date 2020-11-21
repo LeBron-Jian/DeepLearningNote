@@ -55,3 +55,7 @@
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
   - 地址：https://www.cnblogs.com/wj-1314/p/13404831.html
 ***
+### 深度学习论文翻译解析（十四）
+- 深度学习论文翻译解析（十四）：SSD: Single Shot MultiBox Detector
+  - 地址：https://www.cnblogs.com/wj-1314/p/11955967.html
+***
