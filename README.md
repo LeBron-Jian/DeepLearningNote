@@ -1,6 +1,6 @@
 # DeepLearningNote
 ## this is all of my code and data with my deep learning note
-包括深度学习论文翻译，Keras学习，pytorch学习，tensorflow学习等等
+包括深度学习论文翻译学习笔记，Keras学习笔记，pytorch学习笔记，tensorflow学习笔记等等
 ***
 ***
 ## DeepLearningObjectDetection 文件夹注解
