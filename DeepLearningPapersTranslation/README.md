@@ -59,3 +59,7 @@
 - 深度学习论文翻译解析（十四）：SSD: Single Shot MultiBox Detector
   - 地址：https://www.cnblogs.com/wj-1314/p/11955967.html
 ***
+### 深度学习论文翻译解析（十五）
+- 深度学习论文翻译解析（十五）：Densely Connected Convolutional Networks
+  - 地址：https://www.cnblogs.com/wj-1314/p/14025211.html
+***
