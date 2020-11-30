@@ -2,8 +2,11 @@ import tensorflow as tf
 from tensorflow.python.platform import gfile
 import cv2
  
- 
+
 def predict_pb(pb_model_path, image_path1, image_path2, target_size):
+    '''
+      此处为孪生网络的预测代码
+    '''
     sess = tf.Session()
     with gfile.FastGFile(pb_model_path, 'rb') as f:
         graph_def = tf.compat.v1.GraphDef()
