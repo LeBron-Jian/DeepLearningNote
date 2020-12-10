@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Dense, Flatten, Dropout, ZeroPadding2D, AveragePooling2D
 from keras.optimizers import SGD
-from keras.layers import merge, Concatenate
+from keras.layers import merge, Concatenate, Add
 from keras.layers.core import Activation
 from keras.layers.normalization import BatchNormalization
 from keras.utils.vis_utils import plot_model
@@ -107,7 +107,8 @@ def identity_block(input_tensor, nb_filter, kernel_size=(3, 3)):
     out = Conv2D(nb_filter3, kernel_size=(1, 1))(out)
     out = BatchNormalization()(out)
 
-    out = Concatenate()([out, input_tensor])
+    out = Add()([out, input_tensor])
+    # out = Concatenate()([out, input_tensor])
     out = Activation('relu')(out)
     return out
 
@@ -129,7 +130,8 @@ def conv_block(input_tensor, nb_filter, kernel_size=(3, 3)):
     x = Conv2D(nb_filter3, kernel_size=(1, 1))(input_tensor)
     x = BatchNormalization()(x)
 
-    out = Concatenate()([out, x])
+    out = Add()([out, x])
+    # out = Concatenate()([out, x])
     out = Activation('relu')(out)
 
     return out
@@ -241,7 +243,7 @@ def main(flags=True):
     test_folder = r'/data/lebron/data5/mytest'
     target_size = (224, 224)
     input_shape, classes = (224, 224, 1), 5
-    batch_size = 32
+    batch_size = 8
     epochs = 100
 
     if flags:
