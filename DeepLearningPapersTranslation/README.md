@@ -63,3 +63,7 @@
 - 深度学习论文翻译解析（十五）：Densely Connected Convolutional Networks
   - 地址：https://www.cnblogs.com/wj-1314/p/14025211.html
 ***
+### 深度学习论文翻译解析（十六）
+- 深度学习论文翻译解析（十六）：Squeeze-and-Excitation Networks
+  - 地址：https://www.cnblogs.com/wj-1314/p/14143105.html
+***
