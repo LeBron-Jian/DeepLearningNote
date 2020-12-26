@@ -10,11 +10,10 @@
 #### 关于此博客的代码与数据在：    DenseNet_code_folder 
 ***
 ***
-### 
-  - 地址：
+### tensorflow学习笔记——DenseNet
+  - 地址：https://www.cnblogs.com/wj-1314/p/11519663.html
 ***
-#### 关于此博客的代码与数据在：    TensorflowCode_1
-***
+#### 关于此博客的代码与数据在：    ResNet_code_folder
 ***
 ### 
   - 地址：
