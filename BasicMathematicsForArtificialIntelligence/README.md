@@ -9,5 +9,5 @@
 ### 人工智能必备数学基础：高等数学基础（2）
   - 地址：https://www.cnblogs.com/wj-1314/p/14086644.html
 ***
-### 人工智能必备数学基础：高等数学基础（3）
-  - 地址：https://www.cnblogs.com/wj-1314/p/14155556.html
+### 人工智能必备数学基础：线性代数基础（1）
+  - 地址：https://www.cnblogs.com/wj-1314/p/14081157.html
