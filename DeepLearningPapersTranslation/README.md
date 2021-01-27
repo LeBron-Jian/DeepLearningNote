@@ -44,7 +44,7 @@
   - 地址：https://www.cnblogs.com/wj-1314/p/13272191.html
 ***
 ### 深度学习论文翻译解析（十一）
-- https://www.cnblogs.com/wj-1314/p/13331182.html
+- OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
   - 地址：https://www.cnblogs.com/wj-1314/p/13331182.html
 ***
 ### 深度学习论文翻译解析（十二）
@@ -56,14 +56,18 @@
   - 地址：https://www.cnblogs.com/wj-1314/p/13404831.html
 ***
 ### 深度学习论文翻译解析（十四）
-- 深度学习论文翻译解析（十四）：SSD: Single Shot MultiBox Detector
+- SSD: Single Shot MultiBox Detector
   - 地址：https://www.cnblogs.com/wj-1314/p/11955967.html
 ***
 ### 深度学习论文翻译解析（十五）
-- 深度学习论文翻译解析（十五）：Densely Connected Convolutional Networks
+- Densely Connected Convolutional Networks
   - 地址：https://www.cnblogs.com/wj-1314/p/14025211.html
 ***
 ### 深度学习论文翻译解析（十六）
-- 深度学习论文翻译解析（十六）：Squeeze-and-Excitation Networks
+- Squeeze-and-Excitation Networks
   - 地址：https://www.cnblogs.com/wj-1314/p/14143105.html
+***
+### 深度学习论文翻译解析（十七）
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+  - 地址：https://www.cnblogs.com/wj-1314/p/14318311.html
 ***
