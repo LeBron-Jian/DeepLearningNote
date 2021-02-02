@@ -71,3 +71,7 @@
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
   - 地址：https://www.cnblogs.com/wj-1314/p/14318311.html
 ***
+### 深度学习论文翻译解析（十八）
+- MobileNetV2: Inverted Residuals and Linear Bottlenecks
+  - 地址：https://www.cnblogs.com/wj-1314/p/14077776.html
+***
