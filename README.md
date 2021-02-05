@@ -22,6 +22,7 @@
 ## TensorflowLearningNote 文件夹注解
 - 此文件夹为Tensorflow相关博客及其Tensorflow实现的代码
   - 其中包括Tensorflow的基本使用代码，Tensorflow实现的大型网络
+  - **个人将自己实现的很多大型网络，包括 LeNet，AlexNet，VGGNet，InceptionNet，ResNet，DenseNet，SENet，MobileNet等都放在这个文件夹**
 ***
 ## BasicMathematicsForArtificialIntelligence 文件夹注解
 - 此文件夹为我整理的数学基础相关博客
