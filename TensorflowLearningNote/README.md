@@ -4,6 +4,11 @@
 > 这个文件夹存放的是这里存放自己学习Tensorflow的相关代码，和学习Tensorflow的博客地址，希望可以帮助到别人
 ***
 ***
+### 卷积神经网络学习笔记——轻量化网络MobileNet系列（V1，V2，V3）
+  - 地址：https://www.cnblogs.com/wj-1314/p/10494911.html
+#### 关于此博客的代码与数据在：    MobileNet_code_folder 
+***
+***
 ### 卷积神经网络学习笔记——SENet
   - 地址：https://www.cnblogs.com/wj-1314/p/14147932.html
 #### 关于此博客的代码与数据在：    SENet_code_folder 
