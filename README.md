@@ -14,10 +14,12 @@
 ## KerasLearningNote 文件夹注解
 - 此文件夹为Keras相关博客及其Keras实现的代码
   - 其中包括Keras的基本使用代码，Keras实现的大型网络
+  - **个人目前对自己完成的Keras版本大型网络（包括：VGGNet16， ResNet，DenseNet 等） 进行一个控制变量的性能比较**
 ***
 ## PyTorchLearningNote 文件夹注解
 - 此文件夹为PyTorch相关博客及其PyTorch实现的代码
   - 其中包括PyTorch的基本使用代码，PyTorch实现的大型网络
+  - **目前做的笔记均是一些Pytorch的基础**
 ***
 ## TensorflowLearningNote 文件夹注解
 - 此文件夹为Tensorflow相关博客及其Tensorflow实现的代码
