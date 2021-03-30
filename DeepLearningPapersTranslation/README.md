@@ -79,3 +79,7 @@
 - Searching for MobileNetV3
   - 地址：https://www.cnblogs.com/wj-1314/p/12108424.html
 ***
+### 深度学习论文翻译解析（二十）
+- YOLOv4: Optimal Speed and Accuracy of Object Detection
+  - 地址：https://www.cnblogs.com/wj-1314/p/14506507.html
+***
