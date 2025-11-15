@@ -83,3 +83,19 @@
 - YOLOv4: Optimal Speed and Accuracy of Object Detection
   - 地址：https://www.cnblogs.com/wj-1314/p/14506507.html
 ***
+### 深度学习论文翻译解析（二十一）
+- High-Performance Large-Scale Image Recognition Without Normalization
+  - 地址：https://www.cnblogs.com/wj-1314/p/16122543.html
+***
+### 深度学习论文翻译解析（二十二）
+- Uniformed Students Student-Teacher Anomaly Detection With Discriminative Latent Embbeddings
+  - 地址：https://www.cnblogs.com/wj-1314/p/10019252.html
+***
+### 深度学习论文翻译解析（二十三）
+- Segment Angthing
+  - 地址：https://www.cnblogs.com/wj-1314/p/18079481.html
+***
+### 深度学习论文翻译解析（二十四）
+- Real-Time Object Detection Meets DINOv3
+  - 地址：https://www.cnblogs.com/wj-1314/p/14506507.html
+***
